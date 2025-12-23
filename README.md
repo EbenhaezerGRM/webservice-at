@@ -1,7 +1,7 @@
 # Dokumentasi Tugas Web Service - RESTful API
 
-**Nama:** [Ebenhaezer George Renaldi Muljadi]  
-**NIM:** [2702230461]
+**Nama:** Ebenhaezer George Renaldi Muljadi  
+**NIM:** 2702230461
 **Mata Kuliah:** Automation Testing
 
 ---
