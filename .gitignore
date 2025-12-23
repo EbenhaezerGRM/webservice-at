@@ -1,9 +1,6 @@
-# Dependency directories
 node_modules/
 
-# Environment variables (PENTING: jaga keamanan)
 .env
 
-# OS generated files
 .DS_Store
 Thumbs.db
